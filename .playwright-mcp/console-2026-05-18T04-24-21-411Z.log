@@ -1,0 +1,18 @@
+[   17158ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[   18167ms] [LOG] [Fast Refresh] done in NaNms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  101930ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  103452ms] [LOG] [Fast Refresh] done in 1629ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  103627ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  103685ms] [LOG] [Fast Refresh] done in 159ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  106822ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  106868ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  108044ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  108055ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  109809ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  109814ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[ 1540148ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[ 1540207ms] [LOG] [Fast Refresh] done in 148ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[ 1540331ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[ 1540447ms] [LOG] [Fast Refresh] done in 230ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[ 1702586ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[ 1702653ms] [LOG] [Fast Refresh] done in 170ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847

@@ -1,0 +1,69 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a pricing card component for a SaaS product, with a plan name, price, a list of features, and a call-to-action button.
+            - img [ref=e61]
+          - generic [ref=e64]:
+            - img [ref=e67]
+            - generic [ref=e72]:
+              - paragraph [ref=e74]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=e77]: str_replace_editor
+              - separator [ref=e78]
+              - paragraph [ref=e80]: I'll create a Card component for you.
+              - generic [ref=e83]: str_replace_editor
+              - separator [ref=e84]
+              - paragraph [ref=e86]: Now let me enhance the component with better styling.
+              - generic [ref=e89]: str_replace_editor
+              - separator [ref=e90]
+              - generic [ref=e91]:
+                - paragraph [ref=e92]: "Perfect! I've created:"
+                - list [ref=e93]:
+                  - listitem [ref=e94]:
+                    - strong [ref=e100]: Card.jsx
+                    - text: "- A fully-featured card component"
+                  - listitem [ref=e101]:
+                    - strong [ref=e102]: App.jsx
+                    - text: "- The main app file that displays the component"
+                - paragraph [ref=e103]: The component is now ready to use. You can see the preview on the right side of the screen.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [ref=e32]
+          - tab "Code" [active] [selected] [ref=e33]
+        - generic [ref=e34]:
+          - button "Toggle theme" [ref=e35]:
+            - img
+          - button "Sign In" [ref=e36]
+          - button "Sign Up" [ref=e37]
+      - generic [ref=e104]:
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - generic [ref=e112] [cursor=pointer]:
+              - img [ref=e113]
+              - img [ref=e115]
+              - generic [ref=e117]: components
+            - generic [ref=e120] [cursor=pointer]:
+              - img [ref=e121]
+              - generic [ref=e126]: Card.jsx
+          - generic [ref=e128] [cursor=pointer]:
+            - img [ref=e129]
+            - generic [ref=e134]: App.jsx
+        - separator [ref=e135]
+        - code [ref=e140]:
+          - generic [ref=e141]:
+            - generic [ref=e146]: "1"
+            - generic [ref=e152]: i
+            - textbox "Editor content" [ref=e154]
+  - alert [ref=e48]
+  - generic [ref=e156]:
+    - alert
+    - alert
